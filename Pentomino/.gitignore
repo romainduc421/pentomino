@@ -1,0 +1,6 @@
+cmake-build-debug/
+CMakeLists.txt
+SDL2/
+.idea/vcs.xml
+.idea/
+
